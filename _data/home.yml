@@ -20,16 +20,16 @@ project_entries:
   - title: Jenkins
     url: jenkins
     desc: Jenkins搭建教程(附带docker和nextcloud联动指南)
+    highlight: Updating
 
-  # - title: Project 4
-  #   url: overview-post
-  #   desc: This project uses highlight markup, configured in _data/home.yml
-  #   highlight: WIP
+  - title: Linux Common Commands
+    url: linux-common-commands
+    desc: linux常用命令及日常操作
 
-  # - title: Project 5
-  #   url: overview-post
-  #   desc: Moonwalk also has horizontal list (used in header and footer)
-  #   highlight: WIP
+  - title: Kubernetes Study Notes
+    url: k8s
+    desc: Kubernetes study notes
+    highlight: WIP
 
   # - title: Project 6
   #   url: overview-post
