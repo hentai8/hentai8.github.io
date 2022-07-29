@@ -25,15 +25,15 @@ project_entries:
   - title: Linux Common Commands
     url: linux-common-commands
     desc: linux常用命令及日常操作
+    highlight: Updating
 
   - title: Kubernetes Study Notes
     url: k8s
-    desc: Kubernetes study notes
-    highlight: WIP
+    desc: k8s学习笔记
 
-  # - title: Project 6
-  #   url: overview-post
-  #   desc: It also has a scalable vertical list (in case you need it)
+  - title: Coin Node Dockerize
+    url: coin-node-dockerize
+    desc: 各币种节点docker化
 
 # old_project_entries:
 #   - title: Soopr
